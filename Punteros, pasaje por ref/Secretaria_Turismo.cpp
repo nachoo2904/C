@@ -1,8 +1,4 @@
-/*
-Recu 2cuatrimestre 2017
-tamaño de los vectores en 50 posiciones.
 
-*/
 #include<stdio.h>
 #include<conio.h>
 #include<stdlib.h>
